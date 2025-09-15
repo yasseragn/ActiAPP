@@ -15,7 +15,7 @@
   },
   "com.yasseragn.yacinetv": {
     "showDialog": true,
-    "appVersionCode": 6,
+    "appVersionCode": 5,
     "messageText": "تحديث جديد ومهم لتطبيق !",
     "updateButtonText": "تحديث الآن",
     "updateButtonLink": "https://link.to/another_app",
