@@ -1,10 +1,10 @@
 {
-  "com.yasseragn.yacinetv22": {
+  "com.yasseragn.yacinetv": {
     "showDialog": true,
     "appVersionCode": 6,
     "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
     "updateButtonText": "Update",
-    "updateButtonLink": "https://www.yasseragn.com",
+    "updateButtonLink": "https://www.yasseragn.com/2024/01/telecharger-yacine-tv-black.html",
     "updateButtonGradientStartColor": "#1E88E5",
     "updateButtonGradientEndColor": "#64B5F6",
     "cancelButtonText": "Cancel",
@@ -13,12 +13,12 @@
     "cancelButtonGradientEndColor": "#64B5F6",
     "dialogBackgroundColor": "#FFFFFF"
   },
-  "com.yasseragn.yacinetv": {
+  "com.yasseragn.dyacinetv": {
     "showDialog": true,
     "appVersionCode": 44,
     "messageText": "تحديث جديد ومهم لتطبيق !",
     "updateButtonText": "تحديث الآن",
-    "updateButtonLink": "https://link.to/another_app",
+    "updateButtonLink": "https://www.yasseragn.com/2024/01/telecharger-yacine-tv-black.html",
     "updateButtonGradientStartColor": "#FF4500",
     "updateButtonGradientEndColor": "#FF8C00",
     "cancelButtonText": "الخروج",
