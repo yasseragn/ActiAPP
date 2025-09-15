@@ -1,5 +1,5 @@
 {
-  "com.yasseragn.yacinetv": {
+  "com.yasseragn.yacinetv22": {
     "showDialog": true,
     "appVersionCode": 6,
     "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
@@ -13,7 +13,7 @@
     "cancelButtonGradientEndColor": "#64B5F6",
     "dialogBackgroundColor": "#FFFFFF"
   },
-  "com.githyasser.hun": {
+  "com.yasseragn.yacinetv": {
     "showDialog": true,
     "appVersionCode": 6,
     "messageText": "تحديث جديد ومهم لتطبيق !",
