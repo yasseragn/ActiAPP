@@ -1,16 +1,16 @@
 {
-  "com.yasdfseragn.yacinetv": {
+"com.yasseragn.yacinetvdd": {
     "showDialog": true,
-    "appVersionCode": 6,
-    "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-    "updateButtonText": "Update",
+    "appVersionCode": 5,
+    "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
+    "updateButtonText": "تحديث الآن",
     "updateButtonLink": "https://www.yasseragn.com/2024/01/telecharger-yacine-tv-black.html",
-    "updateButtonGradientStartColor": "#1E88E5",
-    "updateButtonGradientEndColor": "#64B5F6",
-    "cancelButtonText": "Cancel",
+    "updateButtonGradientStartColor": "#8723ff",
+    "updateButtonGradientEndColor": "#5000af",
+    "cancelButtonText": "الخروج",
     "cancelClosesApp": true,
-    "cancelButtonGradientStartColor": "#1E88E5",
-    "cancelButtonGradientEndColor": "#64B5F6",
+    "cancelButtonGradientStartColor": "#8723ff",
+    "cancelButtonGradientEndColor": "#5000af",
     "dialogBackgroundColor": "#FFFFFF"
   },
   "com.yasseragn.yacinetv": {
@@ -19,12 +19,12 @@
     "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
     "updateButtonText": "تحديث الآن",
     "updateButtonLink": "https://www.yasseragn.com/2024/01/telecharger-yacine-tv-black.html",
-    "updateButtonGradientStartColor": "#FF4500",
-    "updateButtonGradientEndColor": "#FF8C00",
+    "updateButtonGradientStartColor": "#8723ff",
+    "updateButtonGradientEndColor": "#5000af",
     "cancelButtonText": "الخروج",
     "cancelClosesApp": true,
-    "cancelButtonGradientStartColor": "#FF4500",
-    "cancelButtonGradientEndColor": "#FF8C00",
+    "cancelButtonGradientStartColor": "#8723ff",
+    "cancelButtonGradientEndColor": "#5000af",
     "dialogBackgroundColor": "#FFFFFF"
   }
 }
