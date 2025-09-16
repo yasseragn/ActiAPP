@@ -29,7 +29,7 @@
   },
 "com.yasseragn.lovestory": {
     "showDialog": true,
-    "appVersionCode": 115,
+    "appVersionCode": 116,
     "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
     "updateButtonText": "تحديث الآن",
     "updateButtonLink": "www.yasseragn.com",
