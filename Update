@@ -26,5 +26,19 @@
     "cancelButtonGradientStartColor": "#8723ff",
     "cancelButtonGradientEndColor": "#5000af",
     "dialogBackgroundColor": "#FFFFFF"
+  },
+"com.yasseragn.lovestory": {
+    "showDialog": true,
+    "appVersionCode": 115,
+    "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
+    "updateButtonText": "تحديث الآن",
+    "updateButtonLink": "www.yasseragn.com",
+    "updateButtonGradientStartColor": "#8723ff",
+    "updateButtonGradientEndColor": "#5000af",
+    "cancelButtonText": "الخروج",
+    "cancelClosesApp": true,
+    "cancelButtonGradientStartColor": "#8723ff",
+    "cancelButtonGradientEndColor": "#5000af",
+    "dialogBackgroundColor": "#FFFFFF"
   }
 }
