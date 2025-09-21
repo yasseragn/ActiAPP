@@ -40,5 +40,19 @@
     "cancelButtonGradientStartColor": "#8723ff",
     "cancelButtonGradientEndColor": "#5000af",
     "dialogBackgroundColor": "#FFFFFF"
+  },
+"mr.yasseragn.cloudflare": {
+    "showDialog": true,
+    "appVersionCode": 21006,
+    "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
+    "updateButtonText": "تحديث الآن",
+    "updateButtonLink": "https://www.yasseragn.com",
+    "updateButtonGradientStartColor": "#8723ff",
+    "updateButtonGradientEndColor": "#5000af",
+    "cancelButtonText": "الخروج",
+    "cancelClosesApp": true,
+    "cancelButtonGradientStartColor": "#8723ff",
+    "cancelButtonGradientEndColor": "#5000af",
+    "dialogBackgroundColor": "#FFFFFF"
   }
 }
