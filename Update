@@ -13,7 +13,7 @@
     "cancelButtonGradientEndColor": "#5000af",
     "dialogBackgroundColor": "#FFFFFF"
   },
-  "com.yasseragn.yacinetv": {
+  "mr.yasseragn.yacinetv": {
     "showDialog": true,
     "appVersionCode": 15,
     "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
