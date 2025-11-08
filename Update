@@ -15,7 +15,7 @@
   },
   "mr.yasseragn.yacinetv": {
     "showDialog": true,
-    "appVersionCode": 15,
+    "appVersionCode": 16,
     "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
     "updateButtonText": "تحديث الآن",
     "updateButtonLink": "https://bit.ly/yacinetv-2025",
