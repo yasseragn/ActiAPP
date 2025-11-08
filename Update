@@ -1,10 +1,10 @@
 {
 "mr.yasseragn.yasserflix": {
     "showDialog": true,
-    "appVersionCode": 15,
+    "appVersionCode": 16,
     "messageText": "تم إصدار نسخة جديدة من التطبيق مع تحسينات مهمة في الأداء والأمان. للحصول على أفضل تجربة، يرجى التحديث الآن.",
     "updateButtonText": "تحديث الآن",
-    "updateButtonLink": "https://bit.ly/yasserflix",
+    "updateButtonLink": "https://bit.ly/yasserflix_8",
     "updateButtonGradientStartColor": "#8723ff",
     "updateButtonGradientEndColor": "#5000af",
     "cancelButtonText": "الخروج",
